@@ -30,10 +30,8 @@ html {
     display: flex;
     justify-content: space-between;
     position: fixed;
-    
 }
 .lo-go {
-
     height: 77px;
     width: 30%;
     margin-right: 20%;
@@ -42,7 +40,6 @@ html {
     color: white;
     padding: 20px;
     margin-left: 124px;
-    
 }
 .on-logo {
     height: 77px;
@@ -56,18 +53,16 @@ html {
     text-decoration: none;
     padding: 18px;
 }
-.on-logo a:hover {
+.on-logo>a:hover {
     color: #d3d3d3;
 }
 .blur {
     background-color: rgba(0,0,0,0.2);
     width: 100%;
     height: 100%;
-
 }
 
 .mid-text {
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -86,7 +81,7 @@ html {
     padding: 1%;
     margin-bottom: 20px;
 }
-.our-services {
+.btn {
     border: none;
     padding: 12px 38px;
     background-color: white;
@@ -95,10 +90,6 @@ html {
     font-size: 28px;
     font-size: medium;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3)
-}
-.our-services>a {
-    text-decoration: none;
-    color: black;
 }
 .btn:hover {
     color: #fff;
@@ -115,7 +106,6 @@ html {
 #services {
     padding-top: 5px;
 }
-
 .description {
     margin-right: 131px;
     margin-left: 131px;
