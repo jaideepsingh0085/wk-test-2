@@ -13,6 +13,7 @@
 ![Screenshot 2023-09-11 200456](https://github.com/jaideepsingh0085/wk-test-2/assets/128147644/fffc7573-f659-4343-b5c9-b70bc7d87577)
 ![Screenshot 2023-09-11 200502](https://github.com/jaideepsingh0085/wk-test-2/assets/128147644/2b17db98-3c1d-4352-8945-ec10dad35788)
 
+Hosted Link : https://jaideepsingh0085.github.io/wk-test-2/
 
 HTML :
 <!DOCTYPE html>: Specifies the document type and version of HTML being used.
